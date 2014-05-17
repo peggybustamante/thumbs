@@ -1,0 +1,18 @@
+/* thumbs.css: styling for thumbs up / thumbs down */
+
+#thumbWrapper { border: 1px solid #999; margin: 20px; padding: 0 20px 0 20px; width: 702px; /* background-color: #000;*/ }
+
+#thumbContent { width: 700px; }
+
+.carousel-caption { margin: 40px 0 0 0; }
+
+/*.thumb-icons { width: 270px; margin-right: 10px; float: left; clear: both;}*/
+
+.thumbvote.down { float: right; width: 40px; margin-right: 20px; }
+.thumbvote.up {float: left; width: 40px;  }
+
+h2 { width: 700px; }
+
+.carousel-caption h4 { width: 300px; }
+
+.thumb-results h4 { color: #D59328; }
